@@ -6,7 +6,7 @@ A custom particle system with a virtual fan model simulates airflow, helping vis
 
 ---
 
-## ✨ Features
+## Features
 - Marker-based AR using 2D image targets  
 - Multiple 3D bird models with switching support  
 - Airflow simulation via particle systems  
@@ -15,7 +15,7 @@ A custom particle system with a virtual fan model simulates airflow, helping vis
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Unity 2021.x (or newer)  
@@ -35,7 +35,7 @@ A custom particle system with a virtual fan model simulates airflow, helping vis
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - Assets/Scenes/  → Main AR scenes  
 - Assets/Models/  → 3D bird models  
 - Assets/Scripts/ → Scripts for AR interaction and airflow simulation  
@@ -43,10 +43,10 @@ A custom particle system with a virtual fan model simulates airflow, helping vis
 
 ---
 
-## 🙌 Contribution
+## Contribution
 Pull requests are welcome! If you’d like to add more bird models or new aerodynamic visualizations, feel free to fork the repo.
 
 ---
 
-## 📜 License
+## License
 MIT License — see the LICENSE file for details.

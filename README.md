@@ -25,8 +25,7 @@ A custom particle system with a virtual fan model simulates airflow, helping vis
 ### Setup
 1. Clone this repo:
 
-        git clone https://github.com/your-username/Educational-AR-Bird-Aerodynamics-Simulator-App
-.git
+        git clone https://github.com/R-Anurag/Educational-AR-Bird-Aerodynamics-Simulator-App.git
 
 2. Open the project in Unity Hub.  
 3. Import Vuforia Engine via Window → Package Manager (or import your package).  
